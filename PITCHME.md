@@ -51,6 +51,11 @@ now
 ```
 
 ---
+# <!-- fit --> Well so I can write 
+my own content fairly easily too.
+
+And this autocommits it and deploys it too.
+---
 
 ### <!--fit--> :ok_hand:
 
